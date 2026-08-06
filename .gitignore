@@ -1,0 +1,30 @@
+# PHP / Web project
+/vendor/
+/nbproject/
+
+# Logs
+*.log
+
+# Environment / secrets
+.env
+.env.*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE / editor
+.vscode/
+.idea/
+
+# Temp / cache
+/tmp/
+*.tmp
+*.swp
+
+# Composer
+composer.lock
+
+# Local database/config backups
+*.sql
+*.bak
