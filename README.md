@@ -123,3 +123,10 @@ BT3/
 - **Database**: MySQL 8.4 trên Cloud (Aiven.io)
 - **Frontend**: Bootstrap 5
 - **Kết nối DB**: PDO (PHP Data Objects)
+
+DB_HOST=ptit-crm-datto2580-1773.a.aivencloud.com
+DB_NAME=defaultdb
+DB_USER=avnadmin
+DB_PASSWORD=AVNS_7sT_gBfTNTS5fRj7hZj
+DB_PORT=11770
+DB_CHARSET=utf8mb4
