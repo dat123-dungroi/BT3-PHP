@@ -35,7 +35,8 @@ Dự án web CRM (Customer Relationship Management) xây dựng bằng PHP thu�
 ---
 
 ### Bước 2: Tải dự án từ GitHub
-
+tên github: dat123-dungroi
+mk github: dat165236@gmail.com
 ```bash
 git clone https://github.com/<tên-tài-khoản>/<tên-repo>.git
 ```
