@@ -86,6 +86,9 @@ http://localhost:8000
 ---
 
 ## 🗄️ Cơ sở dữ liệu
+Tạo .env trong folder: 
+type nul > .env
+notepad .env
 
 Dự án sử dụng **Cloud MySQL (Aiven)** — dữ liệu được lưu trữ trực tuyến, tự động kết nối khi có Internet.
 
